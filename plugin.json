@@ -1,0 +1,8 @@
+{
+  "name": "i-want-to-learn",
+  "version": "0.1.0",
+  "description": "Teach instead of solve. Short output, no full implementations, plus an exam mode for reading your own code.",
+  "author": "Taha",
+  "license": "MIT",
+  "skills": ["./skills/i-want-to-learn"]
+}

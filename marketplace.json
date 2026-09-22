@@ -1,0 +1,11 @@
+{
+  "name": "i-want-to-learn",
+  "owner": { "name": "Taha" },
+  "plugins": [
+    {
+      "name": "i-want-to-learn",
+      "source": "./",
+      "description": "Teach instead of solve. Short output, no full implementations, plus an exam mode for reading your own code."
+    }
+  ]
+}
